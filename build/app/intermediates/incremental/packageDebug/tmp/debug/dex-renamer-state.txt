@@ -1,0 +1,4 @@
+#Wed Oct 05 13:27:27 WITA 2022
+base.0=/home/ar-herman/Videos/Flutter Project/list_crud/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
